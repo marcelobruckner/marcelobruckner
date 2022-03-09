@@ -1,6 +1,7 @@
 **Olá, me chamo Luis Marcelo.**</br>
 Este perfil está em construção
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelobruckner)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **marcelobruckner/marcelobruckner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
