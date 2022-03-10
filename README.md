@@ -5,10 +5,10 @@
 </div>
 <div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelobruckner" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelobruckner" />
   </a>
   <a href="https://github.com/marcelobruckner">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelobruckner&show_icons=true&include_all_commits=true"/>
