@@ -17,7 +17,11 @@
 
 <br>
 
+<div align=center>
+
 > Os cards acima foram gerados e disponibilizados por [ANURAG HAZRA](https://github.com/anuraghazra/github-readme-stats/)
+
+</div>
 
 <br>
 
