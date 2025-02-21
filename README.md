@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil!
 
-> Me chamo Luis Marcelo Bruckner, sou um desenvolvedor de software do Rio de Janeiro, Brasil e atualmente morando em São Paulo, Brasil.  
+> Me chamo Luis Marcelo Bruckner, sou um desenvolvedor de software do Rio de Janeiro, Brasil e atualmente morando no Rio de Janeiro, Brasil.  
 > Hoje sou analista de sistemas na Bradesco Seguros.
 
 <br>
