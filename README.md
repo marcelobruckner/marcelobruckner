@@ -33,18 +33,12 @@ Atualmente atuo como Analista de Sistemas na Bradesco Seguros, no Rio de Janeiro
 
 ## Estatísticas
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/marcelobruckner/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelobruckner&show_icons=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/marcelobruckner/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobruckner&layout=compact"/>
-  </a>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelobruckner&theme=github_dark)
 
 <div align="center">
 
-Cards gerados por [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats/).
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelobruckner&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelobruckner&theme=github_dark)
 
 </div>
 
