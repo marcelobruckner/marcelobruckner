@@ -1,4 +1,4 @@
-# Marcelo Bruckner
+# Luís Marcelo Bruckner
 
 Desenvolvedor backend Java com foco em sistemas corporativos, integração entre aplicações, mensageria, autenticação, OpenShift e pipelines CI/CD.
 
