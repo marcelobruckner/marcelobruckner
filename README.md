@@ -35,14 +35,8 @@ Atualmente atuo como Analista de Sistemas na Bradesco Seguros, no Rio de Janeiro
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelobruckner&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelobruckner&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelobruckner&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelobruckner&theme=github_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelobruckner&theme=github_light)
 
 </div>
 
